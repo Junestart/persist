@@ -1,0 +1,28 @@
+html,body{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+}
+
+.div1{
+    background-color: LightSkyBlue;
+    height: 90%;
+    width: 100%;
+}
+.div2{
+    display: flex;
+    flex-direction: row;
+    height: 10%;
+    width: 100%;
+    background-color: lightgray;
+
+}
+.spans{
+    text-align: center;
+    font-weight: bold;
+}
+.div2-n{
+    width: 25%;
+    height: 100%;
+}
